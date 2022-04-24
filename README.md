@@ -4,7 +4,7 @@ Hi 👋 My name is Emmanuel Garcia
 Web Developer | Full-Stack
 --------------------------
 
-My coding journey began when I first jumped into learning Python back in 2019 in which I wrote a small text game, and from then I became so hooked that I decided to learn the most web important language JavaScript! The rest is history.
+My coding journey began when I first learned Python back in 2019 with which I made a small text game, and from then I became so hooked that I decided to learn JavaScript!
 
 * 🖥️  See my portfolio at [EmmanuelGarcia.dev](http://emmanuelgarcia.dev)
 * 🚀  I'm currently working on [a Single Page Application (SPA)](http://twoamazon.com)
