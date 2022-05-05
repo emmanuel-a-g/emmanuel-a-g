@@ -10,7 +10,7 @@ My coding journey began when I first learned Python back in 2019 with which I ma
 * 🚀  I'm currently working on [a Single Page Application (SPA)](http://twoamazon.com)
 * 🧠  I'm learning Java, PostgreSQL, Docker
 * 🤝  I'm open to collaborating on Interesting projects that use API's or React-Native apps.
-* ⚡  My dream is to travel!
+* ⚡  I want to travel!
 
 ### Skills
 
