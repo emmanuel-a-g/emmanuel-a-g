@@ -7,7 +7,7 @@ Web Developer | Full-Stack Engineer
 My coding journey began when I first learned Python back in 2019, from there I fell in love with software/application development. 
 <!-- [EmmanuelGarcia.dev](https://emmanuelgarcia.dev)  -->
 * 🖥️  See my portfolio at <a href="https://emmanuelgarcia.dev" target="_blank">Emmanuel Garcia.dev</a>.
-* 🚀  I'm currently working on [a vue replica of Netflix](https://netflixclonedevs.netlify.app/login).
+* 🚀  I'm currently working on [a Vue.js replica of Netflix](https://netflixclonedevs.netlify.app/login).
 * 🧠  I'm learning TypeScript and Strapi Headless CMS!
 * 🤝  I'm open to collaborating on Interesting projects that utilize API's or a React-Native app.
 * ⚡  Coffee is king
