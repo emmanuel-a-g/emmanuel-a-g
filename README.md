@@ -1,7 +1,7 @@
 Hi 👋 My name is Emmanuel Garcia
 ================================
 
-Web Developer | Full-Stack Engineer
+Full Stack Software Developer
 -----------------------------------
 
 My coding journey began when I first learned Python back in 2019, from there I fell in love with software/application development. 
